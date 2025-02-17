@@ -5,11 +5,11 @@
 https://github.com/Mohini2815/Car-Price-Analysis/blob/main/cars.csv
 
 **Features**
-- Poster link : contains the url of the movie poster.
-- Series title : contains title of the movie.
-- Released year : contains a information about release year of movie.
-- Certificate : contains movie certificate describing to a users.
-- Runtime : contains the movie's time period.
+- Car Id : contains number as cars id.
+- Brand : contains brand of the car.
+- Model : contains a information about model of the car.
+- Year : contains year of manufactured.
+- Kilometers driven : contains the information about kilometers driven by the car.
 - Genre : contain information about what is kind of the movie is(eg.Drama,Horror,etc).
 - IMDB Rating : shows rating of the movies.
 - Overview : contains summary type data in short.
@@ -21,3 +21,7 @@ https://github.com/Mohini2815/Car-Price-Analysis/blob/main/cars.csv
 - star4 :
 - No of votes :
 - Gross :
+
+**Project steps:**
+- DataSet Import
+- 
