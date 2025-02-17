@@ -10,18 +10,21 @@ https://github.com/Mohini2815/Car-Price-Analysis/blob/main/cars.csv
 - Model : contains a information about model of the car.
 - Year : contains year of manufactured.
 - Kilometers driven : contains the information about kilometers driven by the car.
-- Genre : contain information about what is kind of the movie is(eg.Drama,Horror,etc).
-- IMDB Rating : shows rating of the movies.
-- Overview : contains summary type data in short.
-- Meta score : 
-- Director : contain particular movie's director names.
-- Star1 : 
-- star2 : 
-- star3 :
-- star4 :
-- No of votes :
-- Gross :
+- Fuel type : contain information about which type of fuel required to car.
+- Transmission : shows transmission type of car.
+- Owner_type : contains owner type(first,second or third).
+- Mileage : contains the efficiency.
+- Engine : contain .
+- Power : 
+- seats : how many seats have in the car.
+- Price : selling price of a car.
 
 **Project steps:**
-- DataSet Import
+- Libraries Import
+- Dataset load
+- checked basic information about dataset(like head,unique values,etc)
+- performed non-graphical analysis
+- performed graphical visualization(univariate analysis)
+- Label encoding
+-  
 - 
